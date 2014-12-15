@@ -6,8 +6,5 @@ Linear mixed models are used in GWAS to model the association between phenotypes
 
 Several versions of the GWAS LMM exist, but all following the general form:
 
-```tex
-\sum_{x=0}^n f(x)
-```
-
+![](http://www.plosgenetics.org/article/fetchObject.action?uri=info:doi/10.1371/journal.pgen.1004445.e066&representation=PNG)
 
