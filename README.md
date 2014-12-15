@@ -6,8 +6,8 @@ Linear mixed models are used in GWAS to model the association between phenotypes
 
 Several versions of the GWAS LMM exist, but all following the general form:
 
-```math
-y = beta + alpha
+```tex
+\sum_{x=0}^n f(x)
 ```
 
 
